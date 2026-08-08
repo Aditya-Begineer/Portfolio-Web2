@@ -1,0 +1,70 @@
+@media(min-width:600px) {
+  body{
+    background-image: url("D:\\Project\\WhatsApp Image 2026-08-06 at 8.38.59 PM.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+  h1{
+    font-size: 10px;
+    color:rgb(0, 235, 137);
+    text-shadow: 0 4px 8px #00ffea;
+  }
+  h2{
+    font-size: 6px;
+    color:rgb(0, 80, 155)
+  }
+}
+@media(min-width:668px) {
+  body{
+    background-image: url("D:\\Project\\WhatsApp Image 2026-08-06 at 8.38.59 PM.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+  h1{
+    font-size: 15px;
+    color:rgb(0, 235, 137);
+    text-shadow: 0 4px 8px #00ffea;
+  }
+  h2{
+    font-size: 10px;
+    color:rgb(0, 80, 155)
+  }
+}
+@media(min-width:1024px) {
+  body{
+    background-image: url("D:\\Project\\WhatsApp Image 2026-08-06 at 8.38.59 PM.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+  h1{
+    font-size: 20px;
+    color:rgb(0, 235, 137);
+    text-shadow: 0 4px 8px #00ffea;
+  }
+  h2{
+    font-size: 15px;
+    color:rgb(0, 80, 155)
+  }
+}
+
+.nav {
+  list-style: none;
+  display: flex;             /* Places children side-by-side */  
+  justify-content: flex-start;
+  align-items: center;
+  padding: 20px 50px;
+  background-color: hsl(226, 100%, 31%);
+  box-shadow: 0 4px 8px hsl(180, 100%, 50%);
+  border-color: black;
+}
+.nav-button {
+  text-decoration: none;
+  padding: 20px 10px;
+  color: rgb(129, 255, 186);
+  border-style: solid;
+  border-color: #001a18;
+  border-width: 1px;
+}
+p{
+  color:aquamarine;
+}
